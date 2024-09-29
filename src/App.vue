@@ -11,7 +11,7 @@ export default {
   name: 'EditMessage',
   data() {
     return {
-      message: 'Original text2'
+      message: 'Original text3'
     };
   },
   methods: {
